@@ -1,5 +1,5 @@
 # pandas-challenge
-As part of my submission for Module 4 - Pandas DataFrames Challenge, I have submitted a Jupyter notebook titled "Module 4 Challenge" where I have analysed school and standardised test data. I have also submitted my written report through this README.
+As part of my submission for Module 4 - Pandas DataFrames Challenge, I have submitted a Jupyter notebook titled "Module 4 Challenge" in the "PyCitySchools" file, where I have analysed school and standardised test data. I have also submitted my written report through this README.
 
 # Written Report
 
